@@ -4,11 +4,15 @@
   <artifactId>TinyDBGroup04</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>CSCI-5408 data management and warehousing group project</description>
+<<<<<<< HEAD
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
     </properties>
     <dependencies>
+=======
+  <dependencies>
+>>>>>>> 6299143 (Initial commit)
         <!-- dependencies for commons-codec for MD5 hashing -->
         <dependency>
             <groupId>commons-codec</groupId>
@@ -20,10 +24,13 @@
           <artifactId>junit</artifactId>
           <version>4.13.2</version>
       </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>org.hibernate.orm</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>6.4.4.Final</version>
         </dependency>
+=======
+>>>>>>> 6299143 (Initial commit)
     </dependencies>
 </project>
